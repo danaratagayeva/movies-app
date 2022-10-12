@@ -10,3 +10,8 @@ body {
 nav {
   padding: 0 1rem;
 }
+
+.content {
+  min-height: calc(150vh - 70px - 64px);
+  padding: 1.5rem 0;
+}
